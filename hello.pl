@@ -14,3 +14,5 @@ for my $i(1..10)
 }
 
 print "hello world\n";
+
+print "add c.py"
